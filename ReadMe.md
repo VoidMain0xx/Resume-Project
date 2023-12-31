@@ -1,4 +1,4 @@
-# Portfolio Project: [Your Project Name]
+# Portfolio Project: Resume Project
 
 ## Overview
 
